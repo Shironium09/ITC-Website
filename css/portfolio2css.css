@@ -1,0 +1,364 @@
+body{
+
+background-image: linear-gradient(to bottom, black, #252827);
+background-color: #252827;
+background-repeat: no-repeat, repeat;
+background-size: auto 1000px;
+background-position: top;
+        
+}
+        
+.logo{
+        
+width:100px;
+height:100px;
+margin-top:15px;
+margin-left:15px;
+        
+}
+        
+.head{
+        
+margin-top:140px;
+        
+}
+        
+.head h1{
+        
+margin-bottom:0px;
+        
+}
+        
+.head hr{
+        
+width:40%;
+margin-bottom:0px;
+margin-top:10px;
+border: 1px solid #f8cf2c;
+        
+}
+        
+h1{
+        
+font-size:450%;
+font-family: Tahoma, sans-serif;
+color: #f8cf2c;
+font-weight: bold;
+        
+}
+        
+#sub{
+        
+font-size:175%;
+font-family: Tahoma, sans-serif;
+color: #f8cf2c;
+        
+}
+
+.part1{
+
+margin-top: 360px;
+
+}
+
+.whitebox{
+
+position: absolute; 
+left: 50%; 
+transform: translateX(-50%); 
+width: 1270px; 
+height: 330px; 
+z-index: -1; 
+border-radius: 30px;
+box-shadow: 15px 15px 30px;
+    
+}
+
+.data{
+
+font-family: tahoma, sans-serif;
+top: 900px;
+margin-left: 60px;
+z-index: 1;
+text-align: left;
+
+
+}
+
+.data h2{
+
+font-size: 350%;
+
+}
+
+.data p{
+
+font-size: 25px;
+max-width: 96%;
+width: 100%;
+
+}
+
+.part2{
+
+margin-top: 150px;
+
+}
+
+.whitebox2{
+
+position: absolute; 
+left: 50%; 
+transform: translateX(-50%); 
+width: 1270px; 
+height: 330px; 
+z-index: -1; 
+border-radius: 30px;
+box-shadow: 15px 15px 30px;
+        
+}
+    
+.information{
+    
+font-family: tahoma, sans-serif;
+margin-left: 60px;
+z-index: 1;
+text-align: left;
+     
+}
+    
+.information h3{
+    
+font-size: 360%;
+    
+}
+    
+.information p{
+    
+font-size: 25px;
+max-width: 96%;
+width: 100%;
+    
+}
+
+.whitebox3{
+
+position: absolute; 
+margin-top: 150px;
+top: 1500px; 
+left: 50%; 
+transform: translateX(-50%); 
+width: 1270px; 
+height: 550px; 
+z-index: 1; 
+border-radius: 30px;
+box-shadow: 15px 15px 30px;
+    
+}
+    
+.is{
+    
+position: absolute; 
+margin-top: 890px;
+top: 710px; 
+left: 50%; 
+transform: translateX(-50%); 
+text-align: center;
+z-index: 2; 
+font-family: Tahoma, sans-serif;
+color: black;
+max-width: 1100px; 
+    
+}
+    
+h4{
+    
+font-size: 400%;
+margin-bottom: 20px;
+font-weight: bold;
+    
+}    
+    
+.is p{
+      
+font-size: 30px;
+max-width: 550%;
+text-align: center;
+        
+}
+
+h5{
+
+font-family: tahoma, sans-serif;
+color: #f8cf2c;
+font-size: 380%;
+margin-top: 800px;
+margin-bottom: 50px;
+z-index: 1;
+
+}
+
+.row1{
+
+margin-top: 100px;
+z-index: -1;
+    
+}
+    
+.column1{
+    
+float: left;
+width: 50%;  
+text-align: center;
+text-decoration: none;
+    
+}
+    
+.row1::after{
+    
+content:"";
+clear: both;
+display: table;
+    
+}
+
+.row1image{
+
+display: block;
+margin: 0 auto;
+width: 100%;
+box-shadow: 15px 15px 30px rgba(0, 0, 0, 1);
+margin-bottom: 20px;
+    
+}
+
+.column1 h{
+
+font-size: 275%;
+font-family: Tahoma, sans-serif;
+color: #f8cf2c;
+font-weight: bold;
+margin-bottom: 0px;
+    
+}
+
+.column1 p{
+
+text-align: center;
+font-size: 175%;
+font-family: Tahoma, sans-serif;
+color: #f8cf2c;
+font-weight: bold;
+z-index: 1;
+
+}
+
+.img{
+
+position: relative;
+width: 100%;
+
+}
+
+.sym{
+
+position: absolute;
+top: 5%;
+left: 40%;
+width: 20%;
+height: auto;
+z-index: 3;
+
+}
+
+.row2{
+
+margin-top: 100px;
+z-index: -1;
+        
+}
+        
+.column2{
+        
+float: left;
+width: 50%;  
+text-align: center;
+text-decoration: none;
+        
+}
+        
+.row2::after{
+        
+content:"";
+clear: both;
+display: table;
+        
+}
+    
+.row2image{
+    
+display: block;
+margin: 0 auto;
+width: 100%;
+box-shadow: 15px 15px 30px rgba(0, 0, 0, 1);
+margin-bottom: 20px;
+        
+}
+
+.column2 h{
+
+font-size: 275%;
+font-family: Tahoma, sans-serif;
+color: #f8cf2c;
+font-weight: bold;  
+
+}
+
+.tps{
+
+position: relative;
+
+}
+
+.tpsimg{
+
+position: absolute;
+
+
+}
+
+.column2 p{
+
+text-align: center;
+font-size: 175%;
+font-family: Tahoma, sans-serif;
+color: #f8cf2c;
+font-weight: bold;
+z-index: 1;
+    
+}
+
+.paragraph1{
+
+position: absolute;
+top: 35%;
+left: 22%;
+text-align: center;
+color: black;
+z-index: 2;
+width: 80%;
+
+}
+    
+.paragraph1 p{
+
+font-family: tahoma, sans-serif;
+color: black;
+text-align: center;
+font-size: 20px;
+margin: 0;
+max-width: 70%;
+width: 100%;
+
+}
+
