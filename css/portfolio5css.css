@@ -1,0 +1,218 @@
+body{
+
+background-image: linear-gradient(to bottom,black, #2a2599);
+background-color: #2a2599;
+background-repeat: no-repeat, repeat;
+background-size: auto 1000px;
+background-position: top;
+                    
+}
+                    
+.logo{
+                    
+width:100px;
+height:100px;
+margin-top:15px;
+margin-left:15px;
+                    
+}
+                    
+.head{
+                    
+margin-top:140px;
+                    
+}
+                    
+.head h1{
+                    
+margin-bottom:0px;
+                    
+}
+                    
+.head hr{
+                    
+width:40%;
+margin-bottom:0px;
+margin-top:10px;
+                       
+}
+                    
+h1{
+                    
+font-size:450%;
+font-family: Tahoma, sans-serif;
+color: white;
+font-weight: bold;
+                    
+}
+                    
+#sub{
+                    
+font-size:175%;
+font-family: Tahoma, sans-serif;
+color: white;
+                    
+}
+
+
+.whitebox{
+
+position: absolute; 
+top: 720px; 
+left: 50%; 
+transform: translateX(-50%); 
+width: 1270px; 
+height: 550px; 
+z-index: 1; 
+border-radius: 30px;
+box-shadow: 15px 15px 30px #323030;
+        
+}
+        
+.overview{
+        
+position: absolute; 
+top: 755px; 
+left: 50%; 
+transform: translateX(-50%); 
+text-align: center;
+z-index: 2; 
+font-family: Tahoma, sans-serif;
+color: black;
+max-width: 1100px; 
+        
+}
+        
+h2{
+        
+font-size: 400%;
+margin-bottom: 20px;
+font-weight: bold;
+        
+}        
+        
+.overviewpara{
+          
+font-size: 30px;
+max-width: 550%;
+width: 100%;
+margin: 0 auto;
+text-align: center;
+            
+}
+    
+.leftimg1{
+
+margin-top: 70%;
+margin-left: 5%;
+width: 35%;
+height: auto;
+border-radius: 30px;
+box-shadow: 15px 15px 30px black;
+z-index: -1;
+
+}
+
+.righttext1{
+
+margin-top: -23%;
+font-family: tahoma, sans-serif;
+margin-left: 45%;
+color: white;
+z-index: 1;
+
+}
+
+.righttext1 h{
+
+font-size: 300%;
+text-align: center;
+font-weight: bold;
+
+}
+
+.righttext1 p{
+
+text-align: left;
+max-width: 100%;
+width: 85%;
+
+}
+
+.rightimg{
+
+float: right;
+margin-top: 20%;
+margin-right: 5%;
+width: 35%;
+height: auto;
+border-radius: 30px;
+box-shadow: 15px 15px 30px black;
+z-index: -1;
+
+}
+
+.lefttext{
+
+float: right;
+margin-top: -23%;
+font-family: tahoma, sans-serif;
+margin-left: 3%;
+color: white;
+z-index: 1;
+
+}
+
+.lefttext h{
+
+font-size: 300%;
+text-align: center;
+font-weight: bold;
+    
+}
+    
+.lefttext p{
+    
+text-align: left;
+max-width: 100%;
+width: 58%;
+    
+}
+
+.leftimg2{
+
+margin-top: 20%;
+margin-left: 5%;
+width: 35%;
+height: auto;
+border-radius: 30px;
+box-shadow: 15px 15px 30px black;
+z-index: -1;
+    
+}
+    
+.righttext2{
+    
+margin-top: -23%;
+font-family: tahoma, sans-serif;
+margin-left: 45%;
+color: white;
+z-index: 1;
+    
+}
+    
+.righttext2 h{
+    
+font-size: 300%;
+text-align: center;
+font-weight: bold;
+    
+}
+    
+.righttext2 p{
+    
+text-align: left;
+max-width: 100%;
+width: 85%;
+    
+}

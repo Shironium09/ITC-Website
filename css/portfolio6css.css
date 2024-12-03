@@ -1,0 +1,278 @@
+body{
+
+background-image: linear-gradient(to bottom, black  , #ff3131);
+background-color: #ff3131;
+background-repeat: no-repeat, repeat;
+background-size: auto 1000px;
+background-position: top;
+                    
+}
+                    
+.logo{
+                    
+width:100px;
+height:100px;
+margin-top:15px;
+margin-left:15px;
+                    
+}
+                    
+.head{
+                    
+margin-top:140px;
+                    
+}
+                    
+.head h1{
+                    
+margin-bottom:0px;
+                    
+}
+                    
+.head hr{
+                    
+width:40%;
+margin-bottom:0px;
+margin-top:10px;
+                       
+}
+                    
+h1{
+                    
+font-size:450%;
+font-family: Tahoma, sans-serif;
+color: white;
+font-weight: bold;
+                    
+}
+                    
+#sub{
+                    
+font-size:175%;
+font-family: Tahoma, sans-serif;
+color: white;
+                    
+}
+
+.whitebox{
+
+position: absolute; 
+top: 720px; 
+left: 50%; 
+transform: translateX(-50%); 
+width: 1270px; 
+height: 550px; 
+z-index: 1; 
+border-radius: 30px;
+box-shadow: 15px 15px 30px black;
+        
+}
+        
+.overview{
+        
+position: absolute; 
+top: 795px; 
+left: 50%; 
+transform: translateX(-50%); 
+text-align: center;
+z-index: 2; 
+font-family: Tahoma, sans-serif;
+color: black;
+max-width: 1100px; 
+        
+}
+        
+h2{
+        
+font-size: 313%;
+margin-bottom: 20px;
+font-weight: bold;
+        
+}     
+        
+.overviewpara{
+          
+font-size: 27px;
+max-width: 550%;
+width: 100%;
+margin: 0 auto;
+text-align: center;
+            
+}
+
+.image{
+
+position: relative; 
+margin-top: 900px;
+
+}
+
+.box{
+
+width: 1270px; 
+height: 550px; 
+border-radius: 30px;
+box-shadow: 15px 15px 30px black;
+z-index: -1;
+
+}
+
+.boximg{
+
+position: absolute;
+display: block;
+width: 300px;
+height: 300px;
+border-radius: 30px;
+box-shadow: 15px 15px 30px black;
+top: 25%;
+left: 90px;
+z-index: 1;
+
+
+}
+
+.image h{
+
+font-family: tahoma, sans-serif;
+font-size: 300%;
+color: black;
+z-index: 1;
+margin-top: 5px;
+position: absolute;
+top: 10%;
+left: 37%;
+text-align: center;
+font-weight: bold;
+
+}
+
+.image p{
+
+font-family: tahoma, sans-serif;
+font-size: 150%;
+color: black;
+z-index: 1;
+margin-top: 5px;
+position: absolute;
+top: 35%;
+left: 3%;
+margin-left: 400px;
+width: 100%;
+max-width: 60%;
+text-align: left;
+
+}
+
+.image2{
+
+position: relative; 
+margin-top: 100px;
+
+}
+
+.image2 h{
+
+font-family: tahoma, sans-serif;
+font-size: 300%;
+color: black;
+z-index: 1;
+margin-top: 5px;
+position: absolute;
+top: 10%;
+text-align: center;
+font-weight: bold;
+    
+}
+    
+.image2 p{
+    
+font-family: tahoma, sans-serif;
+font-size: 150%;
+color: black;
+z-index: 1;
+margin-top: 5px;
+position: absolute;
+top: 35%;
+left: 3%;
+margin-left: 400px;
+width: 100%;
+max-width: 60%;
+text-align: left;
+    
+}
+
+.mf{
+
+font-family: tahoma, sans-serif;
+font-size: 300%;
+color: black;
+z-index: 1;
+margin-top: 5px;
+position: absolute;
+top: 10%;
+left: 32%;
+text-align: center;
+font-weight: bold;
+
+}
+
+.minic{
+
+font-family: tahoma, sans-serif;
+font-size: 300%;
+color: black;
+z-index: 1;
+margin-top: 5px;
+position: absolute;
+top: 10%;
+left: 38%;
+text-align: center;
+font-weight: bold;
+    
+}
+
+.s{
+
+font-family: tahoma, sans-serif;
+font-size: 300%;
+color: black;
+z-index: 1;
+margin-top: 5px;
+position: absolute;
+top: 10%;
+left: 45%;
+text-align: center;
+font-weight: bold;
+    
+}
+
+.ws{
+
+font-family: tahoma, sans-serif;
+font-size: 300%;
+color: black;
+z-index: 1;
+margin-top: 5px;
+position: absolute;
+top: 10%;
+left: 40%;
+text-align: center;
+font-weight: bold;
+
+}
+
+.microc{
+
+font-family: tahoma, sans-serif;
+font-size: 300%;
+color: black;
+z-index: 1;
+margin-top: 5px;
+position: absolute;
+top: 10%;
+left: 38%;
+text-align: center;
+font-weight: bold;
+    
+}

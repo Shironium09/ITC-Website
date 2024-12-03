@@ -1,0 +1,104 @@
+body{
+
+background-image: linear-gradient(to bottom, #194618, #006049);
+background-color: #006049;
+background-repeat: no-repeat, repeat;
+background-size: auto 1000px;
+background-position: top;
+                
+}
+                
+.logo{
+                
+width:100px;
+height:100px;
+margin-top:15px;
+margin-left:15px;
+                
+}
+                
+.head{
+                
+margin-top:140px;
+                
+}
+                
+.head h1{
+                
+margin-bottom:0px;
+                
+}
+                
+.head hr{
+                
+width:40%;
+margin-bottom:0px;
+margin-top:10px;
+                   
+}
+                
+h1{
+                
+font-size:450%;
+font-family: Tahoma, sans-serif;
+color: white;
+font-weight: bold;
+                
+}
+                
+#sub{
+                
+font-size:175%;
+font-family: Tahoma, sans-serif;
+color: white;
+                
+}
+
+
+.whitebox{
+
+position: absolute; 
+top: 720px; 
+left: 50%; 
+transform: translateX(-50%); 
+width: 1270px; 
+height: 550px; 
+z-index: 1; 
+border-radius: 30px;
+box-shadow: 15px 15px 30px #323030;
+        
+}
+        
+.overview{
+        
+position: absolute; 
+top: 755px; 
+left: 50%; 
+transform: translateX(-50%); 
+text-align: center;
+z-index: 2; 
+font-family: Tahoma, sans-serif;
+color: black;
+max-width: 1100px; 
+        
+}
+        
+h2{
+        
+font-size: 400%;
+margin-bottom: 20px;
+font-weight: bold;
+        
+}
+        
+        
+.overviewpara{
+          
+font-size: 30px;
+max-width: 550%;
+width: 100%;
+margin: 0 auto;
+text-align: center;
+            
+}
+    
